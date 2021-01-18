@@ -1,6 +1,24 @@
 # ignore jupyter notebooks checkpoints 
 .ipynb_checkpoints/
+
 # ignore output image files 
 output_images/
-# ignore additioanl data files 
+
+# ignore MOPITT data files 
+MOPITT_data/
+
+# ignore sample MOPITT data files 
+sample_MOPITT_data/
+
+# ignore CWFIS data files 
+CWFIS_data/
+
+# presentation about MOPITT data
+"2020-10-03 MOPITTDataPresentation-CSA.pdf"
+
+# older iterations of data directories to ignore
+more_MOPITT_data/
+
+data/
+
 more_data/
